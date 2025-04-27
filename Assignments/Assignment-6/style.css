@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-container{
+    background: url(https://ik.imagekit.io/3dj3selxl/MERN_BOOTCAMP/Assignment-6%20Chat%20Page/chatbg.png?updatedAt=1745732407729);
+    height: 100vh;
+    max-width: 400px;
+    background-position: center;
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+}
+

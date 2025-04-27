@@ -7,21 +7,23 @@
 
 .container{
     height: 100vh;
-    width: 365px;
-    /* border: 2px solid yellow; */
-    background: url(https://ik.imagekit.io/3dj3selxl/todolistbg.png_updatedAt=1700761069523?updatedAt=1745386574060);
-    display: flex;
-    justify-content: center;
+    width: 361px;
+    /* border: 1px solid yellow; */
+    background: url(https://ik.imagekit.io/3dj3selxl/MERN_BOOTCAMP/Assignment-5%20Todolist/todolistbg.png_updatedAt=1700761069523?updatedAt=1745732243134);
+    /* display: flex; */
+    /* justify-content: center; */
     background-repeat: no-repeat;
     text-align: center;
 }
 
 .content{
-    /* border: 1px solid yellow; */
+    /* border: 1px solid blue;    */
     color: white;
+    /* width: 360px; */
 }
 
 .content .p1{
+    /* border: 1px solid blue;   */
     margin-top: 60px;
     padding: 0 7px;
 }
